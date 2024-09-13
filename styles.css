@@ -2,7 +2,9 @@ body {background-color: midnightblue;}
 h1 {color:whitesmoke;}
 h2 {color:aquamarine}
 p {color:cornflowerblue}
-.table-format {border: solid; color:bisque; margin-left:auto; margine-right:auto;}
+.table-format {border: solid; color:bisque; margin-left:auto; margin-right:auto; border-collapse: collapse;
+    width: 100%;}
 tr {color:fuchsia;}
 section > p {text-align:left-algin;}
-section > h2{text-align: center;}
+section > h2 {text-align: center;}
+
