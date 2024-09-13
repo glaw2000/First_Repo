@@ -1,6 +1,8 @@
 body {background-color: midnightblue;}
 h1 {color:whitesmoke;}
 h2 {color:aquamarine}
-p {color:lavender}
-table {border: 1px, aquamarine, solid;}
-tr {color:lavenderblush}
+p {color:cornflowerblue}
+.table-format {border: solid; color:bisque; margin-left:auto; margine-right:auto;}
+tr {color:fuchsia;}
+section > p {text-align:left-algin;}
+section > h2{text-align: center;}
