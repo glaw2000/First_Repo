@@ -1,1 +1,6 @@
-table {border: 1px, aqua, solid;}
+body {background-color: midnightblue;}
+h1 {color:whitesmoke;}
+h2 {color:aquamarine}
+p {color:lavender}
+table {border: 1px, aquamarine, solid;}
+tr {color:lavenderblush}
